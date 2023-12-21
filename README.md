@@ -1,6 +1,7 @@
 # ecommerce
 
 A new Flutter project.
+![sidebar](side.png)
 
 ## Getting Started
 
